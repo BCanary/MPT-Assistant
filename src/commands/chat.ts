@@ -39,4 +39,4 @@ ID: ${message.chat.id}
 			{ keyboard: Keyboard.keyboard(keyboardData).inline() },
 		);
 	},
-};
+}; // Кто прочитал тот лох
